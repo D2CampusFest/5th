@@ -20,19 +20,21 @@
 [prefeel-lib](https://github.com/bbvch13531/prefeel-lib)|오픈소스 구조 파악 및  이해를 도와주는 웹 애플리케이션|GPL v3
 [THStorytellingView.git](https://github.com/TileImageTeamiOS/THStorytellingView.git)|iOS 이미지 뷰어|MIT
 
-### 오리엔테이션 안내
+
+## 이후 일정 안내
+### 오리엔테이션
 >* 일시 : 2월 1일 (목) 오전 11시-오후 6시
 >* 장소 : 정자동 NAVER 본사 그린팩토리<br/>
 * 상세내용은 전달드린 메일을 참고해주시기 바랍니다.
 
-### 밋업일정 안내
+### 밋업
 >* 밋업 1 : 2월 8일 (목) 오후 2시-7시
 >* 밋업 2 : 2월 13일 (화) 오후 2시-7시
 >* 밋업 3 : 2월 22일 (목) 오후 2시-7시<br/>
 >* 장소 : D2 Startup Factory, 강남역 메리츠타워 16층
 
 
-### 결승전 안내
+### 결승전
 >* 일시 : 2월 27일 (화)
 >* 장소 : 정자동 NAVER 본사 그린팩토리
 
