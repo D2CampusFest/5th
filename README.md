@@ -7,7 +7,7 @@
 [AndroidLogData](https://github.com/AndroidLogData)|안드로이드 개발 로그 데이터 관리|MIT
 [bigpicture-light](https://github.com/JuhoKang/bigpicture-light)|실시간 그림판 공유 및 채팅 프로그램|MIT
 [daily-health-originer](https://github.com/ryuhangyeong/daily-health-originer)|다이어트를 위한 정보 기록 및 추천 영상을 통한 소셜 다이어트 코치|MIT
-[Dr.Jekyll](https://github.com/MoonCrystalPower/Dr.Jekyll)|Jekyll을 사용한 블로그 관리 애플리케이션
+[Dr.Jekyll](https://github.com/MoonCrystalPower/Dr.Jekyll)|Jekyll을 사용한 블로그 관리 애플리케이션|MIT
 [flip](https://github.com/xxxnell/flip/tree/develop)|데이터 스트림으로부터 일반적인 확률 분포를 추정,<br/> 추정된 확률 분포의 정보 엔트로피를 계산할 수 있는 순수 함수형 라이브러리|MIT
 [LaunchPAD_JS](https://github.com/rouismia/LaunchPAD_JS)|음악 믹싱 런치패드|MIT|
 [mgcpp](https://github.com/MGfoundation/mgcpp)|CUDA를 이용하여 C++ 멀티 GPU 프로그래밍을 쉽게 하기 위한 라이브러리|BSL 1.0
