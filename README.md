@@ -16,7 +16,7 @@
 [Nanum](https://github.com/LandvibeDev/Nanum)|개발 협력 툴|MIT
 [naver_talk_sdk](https://github.com/HwangWonYo/naver_talk_sdk)|네이버 톡톡 SDK
 [oh-my-desk](https://github.com/ahki/oh-my-desk)|웹 컨텐츠 관리를 위한 데스크탑 위젯|GPL v3
-[opensourceproject](https://github.com/kuj0210/opensourceproject)|IoT 반려동물 급식기|MIT
+[IoT-Pet-Home-System <br/>(구)opensourceproject](https://github.com/kuj0210/opensourceproject)|IoT 반려동물 급식기|MIT
 [prefeel-lib](https://github.com/bbvch13531/prefeel-lib)|라이브러리 선택과 코딩 컨벤션 적용을 도와주는 웹 애플리케이션 |GPL v3
 [THStorytellingView.git](https://github.com/TileImageTeamiOS/THStorytellingView.git)|iOS 이미지 뷰어|MIT
 
