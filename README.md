@@ -1,22 +1,26 @@
 # 제 5회 결승전 수상작
 (공동수상-알파벳 순)
 
-## Mosaicer / 최우수상 
+## Mosaicer / 최우수상
+<img src="logo/Mosaicer.png" height="70px">
 * 특정 인물을 제외한 자동 모자이크 시스템<br/>
 * 라이선스 : MIT<br/>
 * 저장소 : https://github.com/seongahjo/Mosaicer
 
 ## flip / 우수상 
+&#127922;
 * 데이터 스트림으로부터 일반적인 확률 분포를 추정, 추정된 확률 분포의 정보 엔트로피를 계산할 수 있는 순수 함수형 라이브러리<br/>
 * 라이선스 : MIT<br/>
 * 저장소 : https://github.com/xxxnell/flip/tree/develop
 
 ## mgcpp / 우수상 
+<img src="logo/MGcpp.png" height="70px">
 * CUDA를 이용하여 C++ 멀티 GPU 프로그래밍을 쉽게 하기 위한 라이브러리<br/>
 * 라이선스 : BSL 1.0<br/>
 * 저장소 : https://github.com/MGfoundation/mgcpp
 
 ## LaunchPAD_JS / 장려상 
+<img src="logo/launchpad.png" height="70px">
 * 음악 믹싱 런치패드<br/>
 * 라이선스 : MIT<br/>
 * 저장소 : https://github.com/rouismia/LaunchPAD_JS
@@ -26,6 +30,7 @@
 * 저장소 : https://github.com/HwangWonYo/naver_talk_sdk
 
 ## THStorytellingView.git / 장려상 
+<img src="logo/THStory.png" height="70px">
 * iOS 이미지 뷰어<br/>
 * 라이선스 : MIT<br/>
 * 저장소 : https://github.com/TileImageTeamiOS/THStorytellingView.git
