@@ -8,10 +8,10 @@
 * 저장소 : https://github.com/seongahjo/Mosaicer
 
 ## flip / 우수상 
-&#127922;
-* 데이터 스트림으로부터 일반적인 확률 분포를 추정, 추정된 확률 분포의 정보 엔트로피를 계산할 수 있는 순수 함수형 라이브러리<br/>
+<img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/118/game-die_1f3b2.png" height="70px">
+* 데이터의 확률 통계적 특징을 아주 빠르게, 적은 메모리만을 사용해, 간편하게 계산할 수 있는 순수 함수형 라이브러리<br/>
 * 라이선스 : MIT<br/>
-* 저장소 : https://github.com/xxxnell/flip/tree/develop
+* 저장소 : https://github.com/xxxnell/flip
 
 ## mgcpp / 우수상 
 <img src="logo/MGcpp.png" height="70px">
