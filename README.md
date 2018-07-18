@@ -47,7 +47,7 @@
 [MyDiary](https://github.com/poirin/MyDiary)|포트폴리오 관리를 위한 웹 서비스|MIT
 [Nanum](https://github.com/LandvibeDev/Nanum)|개발 협력 툴|MIT
 [oh-my-desk](https://github.com/ahki/oh-my-desk)|웹 컨텐츠 관리를 위한 데스크탑 위젯|GPL v3
-[IoT-Pet-Home-System <br/>(구)opensourceproject](https://github.com/kuj0210/opensourceproject)|IoT 반려동물 급식기|MIT
+[IoT-Pet-Home-System <br/>(구)opensourceproject](https://github.com/kuj0210/opensourceproject)|IoT 반려동물 급식기|GPL v3
 [prefeel-lib](https://github.com/bbvch13531/prefeel-lib)|라이브러리 선택과 코딩 컨벤션 적용을 도와주는 웹 애플리케이션 |GPL v3
 
 문의 : naver_d2@naver.com
