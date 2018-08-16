@@ -1,4 +1,20 @@
-# 제 5회 결승전 수상작
+# Beyond FEST 상
+(공동수상-알파벳 순)
+
+## flip 
+<img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/118/game-die_1f3b2.png" height="70px">
+* 데이터의 확률 통계적 특징을 아주 빠르게, 적은 메모리만을 사용해, 간편하게 계산할 수 있는 순수 함수형 라이브러리<br/>
+* 라이선스 : MIT<br/>
+* 저장소 : https://github.com/xxxnell/flip
+
+## mgcpp
+<img src="logo/MGcpp.png" height="70px">
+* CUDA를 이용하여 C++ 멀티 GPU 프로그래밍을 쉽게 하기 위한 라이브러리<br/>
+* 라이선스 : BSL 1.0<br/>
+* 저장소 : https://github.com/MGfoundation/mgcpp
+
+
+# 결승전 수상작
 (공동수상-알파벳 순)
 
 ## Mosaicer / 최우수상
